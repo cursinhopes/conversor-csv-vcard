@@ -1,3 +1,0 @@
-g++ -Wall -Wextra -g -std=c++17 -Iinclude -c arquivo.cpp -o obj/arquivo.o
-
-g++ -o saida.exe obj/arquivo.o obj/arquivo2.o ... 
