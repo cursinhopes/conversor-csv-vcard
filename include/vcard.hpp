@@ -1,9 +1,6 @@
 #ifndef VCARD_H
 #define VCARD_H
-#include<iostream>
-#include<fstream>
-
-using namespace std;
+#include "contato.hpp"
 
 class VCARD
 {
